@@ -13,7 +13,7 @@ sudo yum install -y nodejs git
 
 # clone the app
 cd /home/ec2-user
-git clone https://github.com/Prashantsit16/Auto-Scaling-Web-App-EC2.git app
+git clone https://github.com/Prashantsit16/Auto-Scaling-App.git app
 cd app/app
 
 # install dependencies and start
